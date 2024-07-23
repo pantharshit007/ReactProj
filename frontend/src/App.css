@@ -1,0 +1,11 @@
+.shadowPara {
+    text-shadow: 2px 2px 0px hsla(0, 0%, 20%, 0.744);
+}
+
+.shadowCourse {
+    text-shadow: 2px 2px 0px hsl(126, 17%, 57%);
+}
+
+.shadowBatch {
+    text-shadow: 2px 2px 0px hsla(0, 0%, 20%, 0.548);
+}
