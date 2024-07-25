@@ -9,3 +9,21 @@
 .shadowBatch {
     text-shadow: 2px 2px 0px hsla(0, 0%, 20%, 0.548);
 }
+
+.status {
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.status.published {
+    background-color: #94e493;
+    color: black;
+    font-weight: 400;
+}
+
+.status.unpublished {
+    background-color: #dad4d4;
+    color: black;
+    font-weight: 400;
+}
